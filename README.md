@@ -1,6 +1,16 @@
-# NBA Chatbot
+# NBA Chatbot 🏀
 
 A rule-based regex chatbot that answers questions about basketball and the NBA, built with a Python/Flask backend and a React frontend.
+
+## Team
+
+Built by 5 members as part of a university assignment:
+
+- Hammad Ihsan
+- Sohail Aslam
+- Mohsin Pervaiz
+- Osama Zubair
+- Sameer Rizwan
 
 ## Stack
 
